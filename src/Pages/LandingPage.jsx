@@ -1,6 +1,6 @@
 // LandingPage.js
 import React, { useContext, useState } from 'react';
-import HERO_IMG from '../assets/heroProfile.png';
+import HERO_IMG from '../assets/heroProfile.PNG';
 import { APP_FEATURES } from '../utils/data';
 import { useNavigate } from 'react-router-dom';
 import { LuSparkle } from "react-icons/lu";
